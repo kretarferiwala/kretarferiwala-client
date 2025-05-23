@@ -5,7 +5,7 @@
   "scripts": {
     "dev": "next dev --turbopack",
     "build": "next build",
-   "start": "NODE_ENV=production node server.js",
+    "start": "NODE_ENV=production node server.js",
     "lint": "next lint"
   },
   "dependencies": {
@@ -38,7 +38,7 @@
     "@tailwindcss/postcss": "^4",
     "@types/jsonwebtoken": "^9.0.9",
     "@types/next": "^8.0.7",
-    "@types/node": "^20",
+    "@types/node": "^20.17.50",
     "@types/react": "^19.1.2",
     "@types/react-dom": "^19.1.2",
     "@types/streamifier": "^0.1.2",
